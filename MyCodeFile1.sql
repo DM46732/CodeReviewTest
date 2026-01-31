@@ -1,1 +1,2 @@
 --The content of the file is fresh  
+-- New line added
